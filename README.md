@@ -15,5 +15,5 @@ The service will be up and running in PORT 5000
 You can view the swagger documentation in <http://localhost:5000/api/doc>.
 
 <p align="center">
-  <img src="./swagger-amspng" width="500" title="Get tagged assignments">
+  <img src="./swagger-ams.png" width="500" title="Get tagged assignments">
 </p>
